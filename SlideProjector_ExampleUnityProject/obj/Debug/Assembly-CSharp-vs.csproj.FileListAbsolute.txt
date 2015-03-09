@@ -1,0 +1,12 @@
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\Temp\bin\Debug\Assembly-CSharp.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\Temp\bin\Debug\UnityEditor.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\Temp\bin\Debug\UnityEngine.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\Temp\bin\Debug\UnityEngine.UI.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\Temp\bin\Debug\Mono.Cecil.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\Temp\bin\Debug\nunit.framework.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\Temp\bin\Debug\Unity.DataContract.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\obj\Debug\Assembly-CSharp.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\SlideProjector\SlideProjector_ExampleUnityProject\obj\Debug\Assembly-CSharp.pdb
