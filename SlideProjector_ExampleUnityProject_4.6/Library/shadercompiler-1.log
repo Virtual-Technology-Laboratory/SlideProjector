@@ -1,0 +1,18 @@
+Base path: C:/apps/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-14024
+Cmd: getPlatforms
+Cmd: preprocess
+  error: 1 plat 12 at (31): Unrecognized #pragma directive: fragmentation
+  insize=1816 outsize=1061 ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (31): Unrecognized #pragma directive: fragmentation
+  api=4 type=0 insize=1019 outsize=1201 kw= ok=1
+Cmd: compileSnippet
+  error: 1 plat 12 at (31): Unrecognized #pragma directive: fragmentation
+  api=4 type=1 insize=1019 outsize=835 kw= ok=1
+Cmd: preprocess
+  insize=1763 outsize=1062 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=967 outsize=1201 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=967 outsize=835 kw= ok=1
